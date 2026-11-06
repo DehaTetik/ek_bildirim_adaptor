@@ -1,0 +1,1 @@
+"""Uygulama çekirdek ayarları ve yardımcıları."""

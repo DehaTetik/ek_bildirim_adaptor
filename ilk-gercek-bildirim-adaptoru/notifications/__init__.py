@@ -1,0 +1,1 @@
+"""Bildirim adaptörleri (console, sms, whatsapp)."""
